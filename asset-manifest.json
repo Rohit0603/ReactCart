@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactCart/static/css/main.8476626b.css",
+    "main.js": "/ReactCart/static/js/main.f62fd6b1.js",
+    "index.html": "/ReactCart/index.html",
+    "main.8476626b.css.map": "/ReactCart/static/css/main.8476626b.css.map",
+    "main.f62fd6b1.js.map": "/ReactCart/static/js/main.f62fd6b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8476626b.css",
+    "static/js/main.f62fd6b1.js"
+  ]
+}
